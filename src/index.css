@@ -1,0 +1,4 @@
+body {
+    --space-1: 5rem;
+    margin-left:calc(var(--space-1)*-1);
+}

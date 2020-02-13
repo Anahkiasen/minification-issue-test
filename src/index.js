@@ -1,1 +1,1 @@
-import 'basscss/css/basscss.css';
+import './index.css';
